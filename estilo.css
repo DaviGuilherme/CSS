@@ -1,0 +1,32 @@
+
+
+.A{
+    background-color: yellow;
+    width: 450px;
+    height: 480px;
+}
+.B{
+    background-color: orangered;
+    width: 350px;
+    height: 355px;
+    
+}
+.p{
+    background-color: red;
+    color:cornflowerblue;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.D{
+    width: 48%; 
+    height: 49vh; 
+    background-color: rgb(38, 150, 72);
+}
+
+.E{
+    width: 56vw; 
+    height: 27vh;
+     background-color: rgb(162, 0, 255);
+}
