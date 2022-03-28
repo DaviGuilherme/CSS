@@ -1,0 +1,100 @@
+.A{
+    height: 100px;
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(179, 76, 76);
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.B {
+    background-color: white;
+    color: blue;
+    height: 50px;
+    width: 500px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+   
+}
+
+
+.p{
+    
+    font-size: 30px;
+}
+
+.C{
+    background-color: rgb(6, 61, 180);
+    height: 30px;
+    width: 800px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+    
+}
+
+.D{
+    background-color: rgb(133, 0, 221);
+    height: 30px;
+    width: 400px;
+    display: flex;
+    margin-left: 400px;
+}
+
+.F{
+    background-color: green;
+    height: 30px;
+    width: 600px;
+    display: flex;
+    margin-left: 300px;
+}
+
+.G{
+    background-color: yellow;
+    height: 30px;
+    width: 450px;
+    display: flex;
+    margin-left: 370px;
+    
+}
+
+.AA{
+    background-color: red;
+    width: 600px; 
+    height: 20px;
+    display: flex;
+    justify-content: left;
+    
+    margin-top: 150px;
+}
+
+.BB{
+    background-color: rgb(21, 129, 148);
+    width: 67vw; 
+    height: 20px;
+    display: flex;
+    justify-content: right;
+    margin-left: 400px;
+    margin-right: 100px;
+    
+}
+
+.CC{
+    background-color: rgb(9, 126, 14);
+    width: 600px; 
+    height: 20px;
+    display: flex;
+    justify-content: left;
+    margin-left: 300px;
+    
+}

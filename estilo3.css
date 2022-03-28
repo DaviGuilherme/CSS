@@ -1,0 +1,23 @@
+
+.A{
+    background-color: blueviolet;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.B{
+    background-color: #fc03e8;
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-color: red;
+    border-width: 20px;
+}
+
+.C{
+    background-color: aqua;
+    height: 88%;
+    width: 30%;
+}

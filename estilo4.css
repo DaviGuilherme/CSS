@@ -1,0 +1,30 @@
+.A{
+    background-color: white;
+    height: 500px;
+    width: 50%;
+    display: flex;
+    border-width: 10px;
+    border-color: black;
+    border-style: dotted;
+    flex-direction: column; 
+    margin: 0 auto;
+    
+}
+.B{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+.C{
+    background-color: orangered;
+    height: 100px;
+    width: 30%;
+}
+.D{
+    background-color: rgb(4, 155, 4);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 100px;
+}

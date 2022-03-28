@@ -1,0 +1,20 @@
+ 
+
+ .A{
+     background-color: black;
+     width: 50px;
+     border: solid 2px;
+     padding-top: 100px;
+ }
+ 
+ .B{
+     background-color: black;
+     height: 50px;
+     width: 50%;
+     border-width: 2px;
+     border-style: dashed;
+     border-color: red;
+     padding-left: 100px;
+     padding-top: 100px;
+
+ }
