@@ -10,8 +10,12 @@
     border-width: 10px;
     border-color: black;
     border-style: dotted;
+<<<<<<< HEAD
     flex-direction: column; 
     margin: 0 auto;
+=======
+    flex-direction: column;
+>>>>>>> 0e27b00d25296b78bb465cd7532c16c07db062ac
     align-items: center;
     
 }
