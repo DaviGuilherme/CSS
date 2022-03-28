@@ -1,0 +1,57 @@
+
+
+.A{
+    background-color: yellow;
+    width: 450px;
+    height: 480px;
+}
+.B{
+    background-color: orangered;
+    width: 355px;
+    height: 356px;
+    
+}
+.p{
+    background-color: red;
+    color:cornflowerblue;
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.D{
+    width: 55%; 
+    height: 505px; 
+    background-color: rgb(38, 150, 72);
+}
+
+.E{
+    width: 75%; 
+    height: 55%;
+     background-color: rgb(162, 0, 255);
+}
+
+.AA{
+    background-color: red;
+    width: 75%; 
+    height: 55%;
+    display: flex;
+    justify-content: end;
+}
+
+.BB{
+    background-color: blue;
+    width: 75%; 
+    height: 55%;
+    display: flex;
+    justify-content: end;
+}
+
+.CC{
+    background-color: yellow;
+    width: 75%; 
+    height: 55%;
+    display: flex;
+    justify-content: end;
+    
+}
