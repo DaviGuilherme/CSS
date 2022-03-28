@@ -1,3 +1,7 @@
+ body{
+     background-color: rgb(128, 128, 128);
+ }
+
 .A{
     background-color: white;
     height: 500px;
@@ -8,6 +12,7 @@
     border-style: dotted;
     flex-direction: column; 
     margin: 0 auto;
+    align-items: center;
     
 }
 .B{
