@@ -1,0 +1,63 @@
+
+
+
+body {
+    
+    background-color: rgb(184, 83, 83);
+   
+    
+}
+
+.cabecalho{
+    background-color: rgb(201, 77, 77);
+    color: yellow;
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+
+}
+
+.A  {
+    border: chartreuse solid 5px;
+    margin: auto;
+    background-color: beige;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    
+}
+
+.B{
+    display: contents;
+}
+
+.B h4{
+    font-family: monospace;
+    font-size: larger;
+    align-items: center;
+    flex-direction: column;
+}
+
+.B input{
+    border: green solid;
+    text-align: center;
+    padding: 5px;
+}
+
+.B button{
+    width: 100px;
+    height: 30px;
+    border: gold solid;
+    cursor: pointer;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+
